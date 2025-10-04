@@ -1,0 +1,6 @@
+[submodule "lunaco-sim"]
+	path = lunaco-sim
+	url = https://github.com/bondlegend4/lunaco-sim.git
+[submodule "godot-modelica-rust-integration"]
+	path = godot-modelica-rust-integration
+	url = https://github.com/bondlegend4/godot-modelica-rust-integration.git
